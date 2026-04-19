@@ -22,6 +22,6 @@ answer your question.
 
 Releases I deem reasonably stable can be found on [GitHub](https://github.com/astei/krypton/releases),
 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/krypton), and on [Modrinth](https://modrinth.com/mod/krypton).
-Development builds may be downloaded from my [Jenkins server](https://ci.velocitypowered.com/job/krypton/).
+Development builds may be downloaded from [GitHub Actions](https://github.com/astei/krypton/actions).
 
 You can also compile the mod from source in the usual fashion.
